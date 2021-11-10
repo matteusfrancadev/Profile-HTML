@@ -1,0 +1,25 @@
+<img src="" alt=""(mostra texto alternativo quando não exibir imagem)>
+
+<figure> 
+	<img src="" alt=""> 
+	<figcaption> (legenda) </figcaption> 
+</figure  
+
+<video src="" controls(mostrar os controles)>  </video
+
+<iframe src="">  </iframe>
+
+<form action=""(Define qual a url será enviado os dados) method=""(Método de como vai ser enviado os dados GET OU POST)>
+
+<input type="inputmode="numeric"(mostrar teclados númericos) disabled(desabilitar) autofocus(focar no input)
+	type="minlength" ou "maxlength"(minímo de caracteres)
+	type="url"(aceita entrada url)
+	type="radio"(bolinha de marcação)
+	type="checkbox"(quadradinho de marcação)
+	type="color"(escolher uma cor)
+	type="range"(escala de valores) min="" max="" value=""(valor inicial) step=""(em quantas casas vai mudar)
+	type="file" (pegar arquivos) accept=".pdf"(o formato que vai aceitar o arquivo) multiple(aceita multiplos arquivos) {Quando existir input do tipo file, é necessário colocar método POST e enctype="multipart/form-data"}>
+
+<button type="submit"(enviar os dados) type="reset"(resetar as informações) type="button" onclick=""(para realizar alguma ação quando clicar no botao) disabled(desabilitar) autofocus(focar no botao) value=""(para identificar qual botao foi clicado)  > Enviar  </button>
+
+
