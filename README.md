@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/matteusfrancadev/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/matteusfrancadev/README-template?style=for-the-badge)
 
-<img src="2021-11-10" alt="perfil">
+<img src="2021-11-10.png" alt="perfil">
 
 ### Ajustes e melhorias
 
@@ -25,7 +25,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="caricatura.png" width="100px;" alt="Foto do Matheus França no GitHub"/><br>
+        <img src="caricatura.png" width="100px;" alt="Foto do Matheus França no GitHub" width="200px" height="300px"/><br>
         <sub>
           <b>Matheus França</b>
         </sub>
