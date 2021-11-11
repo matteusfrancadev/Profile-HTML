@@ -25,7 +25,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="caricatura.png" width="100px;" alt="Foto do Matheus França no GitHub" width="max"/><br>
+        <img src="caricatura.png"" alt="Foto do Matheus França no GitHub" width="150px"/><br>
         <sub>
           <b>Matheus França</b>
         </sub>
